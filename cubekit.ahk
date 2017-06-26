@@ -12,6 +12,7 @@ Sleep, 30
 Send t
 Sleep, 30
 Send Teaming is een bannable overtreding. Stop nu en je wordt niet verbannen{enter}
+return
 
 !c::
 Send t
@@ -25,4 +26,4 @@ Sleep, 30
 Send t
 Sleep, 30
 Send Camping is een verbodsbekleed, Stop niet en je wordt niet verbannen{enter}
-
+return
